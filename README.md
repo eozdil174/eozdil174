@@ -1,5 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=eozdil174&count_private=true&show_icons=true&theme=dracula"/>
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=eozdil174&count_private=true&show_icons=true&theme=nord&hide=stars,contribs"/>
 ### Hi there I'm Eren!
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=orange&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/eozdil/)
