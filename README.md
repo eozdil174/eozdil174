@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=orange&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/eozdil/)
 [![Mail](https://img.shields.io/static/v1?label=Mail&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:eozdil174@gmail.com)
 
-◾👨‍🎓 I am a software enginnering student 
+◾👨‍🎓 I am a software developer 
 <br/>
 ◾👨‍💻 I mainly create desktop applications using C# and Java
 <br/>
